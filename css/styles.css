@@ -1,0 +1,12 @@
+#testimonials {
+    padding: 7% 15%;
+    text-align: center;
+}
+.testimonial-image {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+.testimonial-star {
+    margin: 40px 0px;
+}
