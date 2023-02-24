@@ -10,3 +10,17 @@
 .testimonial-star {
     margin: 40px 0px;
 }
+#about {
+    padding: 7% 15%;
+    text-align: center;
+    background-image: url("images/background-image.png");
+}
+.about-heading {
+    margin: 30px auto;
+}
+.about-content {
+    margin: 20px 0px;
+    font-size: 1.5rem;
+    line-height: 1.5;
+    
+}
