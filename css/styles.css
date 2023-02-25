@@ -24,3 +24,23 @@
     line-height: 1.5;
     
 }
+#doctors {
+    padding: 7% 15%;
+}
+.card{
+    border-style: solid;
+    border-width: 2px;
+    border-color: green;
+    text-align: center;
+}
+.card-img-top {
+    width:80%;
+    border: 1px solid green;
+    border-radius: 4%;
+}
+.card-title {
+    margin: 20px 0px 5px 0px;
+}
+.card-post {
+    margin: 5px 0px 15px 0px;
+}
